@@ -1,5 +1,5 @@
-import React from 'react';
-import Counter from './Counter';
+import React from 'react'
+import Counter from './Counter'
 
 export default class App extends React.Component {
   render() {
@@ -7,7 +7,7 @@ export default class App extends React.Component {
       <div id="content">
         <Counter />
       </div>
-    );
-    return widget;
+    )
+    return widget
   }
 }

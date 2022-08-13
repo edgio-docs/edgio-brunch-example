@@ -23,9 +23,10 @@ Thumbs.db
 jsconfig.json
 
 # NPM packages folder.
-node_modules/
+/node_modules
 
 # Brunch output folder.
-public/
+/public
+
 # Layer0 generated build directory
-.layer0
+/.layer0
